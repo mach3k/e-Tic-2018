@@ -9,8 +9,8 @@
 
 ## Instituto Federal Catarinense - Campus camboriú
 
-e-Tic 2018
-Oficina Laravel para Noobs: da instalação à autenticação de usuários
-Autor: Marcelo Ramos Machado
-BSI17 - TSI14 - PGGN18
-mr.machado@gmail.com
+e-Tic 2018<br/>
+Oficina Laravel para Noobs: da instalação à autenticação de usuários<br/>
+## Autor: Marcelo Ramos Machado<br/>
+BSI17 - TSI14 - PGGN18<br/>
+mr.machado@gmail.com<br/>
